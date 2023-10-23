@@ -5,7 +5,7 @@ type Props = {
 function MainLayout({ children }: Props) {
   return (
     <div>
-      <h1>Main Layout</h1>
+      <h1 className="text-red-500">Main Layout</h1>
       {children}
     </div>
   );

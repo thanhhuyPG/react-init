@@ -1,7 +1,6 @@
-/* http://meyerweb.com/eric/tools/css/reset/
-   v5.0.1 | 20191019
-   License: none (public domain)
-*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 html,
 body,
